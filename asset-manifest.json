@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sri-maha-mariamman-gps-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/sri-maha-mariamman-gps-tracker/static/js/main.2e7b1547.js",
+    "static/js/453.8c51512f.chunk.js": "/sri-maha-mariamman-gps-tracker/static/js/453.8c51512f.chunk.js",
+    "index.html": "/sri-maha-mariamman-gps-tracker/index.html",
+    "main.e6c13ad2.css.map": "/sri-maha-mariamman-gps-tracker/static/css/main.e6c13ad2.css.map",
+    "main.2e7b1547.js.map": "/sri-maha-mariamman-gps-tracker/static/js/main.2e7b1547.js.map",
+    "453.8c51512f.chunk.js.map": "/sri-maha-mariamman-gps-tracker/static/js/453.8c51512f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2e7b1547.js"
+  ]
+}
