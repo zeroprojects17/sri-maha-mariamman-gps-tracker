@@ -99,17 +99,8 @@ function App() {
                   padding: "10px",
                 }}
               >
-                <img
-                  src="/logo512.png"
-                  alt="Logo"
-                  style={{
-                    width: "200px",
-                    height: "160px",
-                    objectFit: "contain",
-                    marginBottom: "-1px",
-                    marginTop: "1px",
-                  }}
-                />
+               
+                
                 <h2
                   style={{
                     margin: 0,
@@ -159,20 +150,7 @@ function App() {
                   >
                     Apple Maps
                   </button>
-                  <button
-                    onClick={() => window.open("/#/app", "_blank")}
-                    style={{
-                      padding: "10px 20px",
-                      fontSize: "14px",
-                      backgroundColor: "#FF5733",
-                      color: "#fff",
-                      border: "none",
-                      borderRadius: "5px",
-                      cursor: "pointer",
-                    }}
-                  >
-                    Download App
-                  </button>
+                  
                 </div>
               </div>
 
